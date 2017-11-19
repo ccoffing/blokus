@@ -1,0 +1,17 @@
+bugs
+    - off-by-one when placing pieces?
+features
+    - detect end game
+    - select number of players 1-4
+    - computer plays
+    - undo
+    - draggable pieces
+UI
+    - more understandable pieces on the side
+        - pack into corner
+        - separated
+        - don't reflow immediately when picking up a piece
+        - highlight selected piece
+    - represent current player?
+    - arbitrary window size
+    - SDL2
